@@ -19,4 +19,10 @@
   $ git init
   Initialized empty Git repository in .....
 ```
+### Checklist:
 
+- [ ] test1
+- [ ] test2
+- [ ] test3
+
+  
