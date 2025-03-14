@@ -6,3 +6,10 @@
 
 
 **I messed up** _feelsbadman.jpg_
+
+
+
+# Now lets add an image shall we?
+
+![LG](https://www.cined.com/content/uploads/2021/12/LG-DualUp_display.jpg)
+
